@@ -1,0 +1,15 @@
+.ListaRestaurantes {
+  margin-top: 1.5rem;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  input {
+    padding: 0 12px;
+    font-size: 110%;
+    border: 1px solid rgba(25, 118, 210, 0.5);
+    border-radius: 4px;
+  }
+
+}
